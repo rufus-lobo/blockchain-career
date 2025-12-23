@@ -1,4 +1,8 @@
 {
     "git.openRepositoryInParentFolders": "always",
-    "git.requireGitUserConfig": false
+    "git.requireGitUserConfig": false,
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+    "editor.renderWhitespace": "all"
 }

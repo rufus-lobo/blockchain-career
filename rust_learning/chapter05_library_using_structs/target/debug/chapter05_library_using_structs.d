@@ -1,0 +1,1 @@
+C:\Users\rufus\source\repos\blockchain-career\rust_learning\chapter05_library_using_structs\target\debug\chapter05_library_using_structs.exe: C:\Users\rufus\source\repos\blockchain-career\rust_learning\chapter05_library_using_structs\src\main.rs
